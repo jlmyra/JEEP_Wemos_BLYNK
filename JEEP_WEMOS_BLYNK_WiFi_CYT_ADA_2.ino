@@ -35,12 +35,12 @@ unsigned long interval = 5000; // millis between read A0
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
 
-char auth[] = "01fc44af30694b00af215465a120df48";//ESP8266
+char auth[] = "";//ESP8266
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "JLM_iPhone";
-char pass[] = "x7ypavwb9g86b";
+char pass[] = "";
 
 //define colors for Blynk interface
 #define BLYNK_GREEN     "#23C48E"
